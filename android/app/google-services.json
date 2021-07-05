@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "790313493176",
+    "project_id": "teste-129ef",
+    "storage_bucket": "teste-129ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790313493176:android:62d1aba8388360453f4a4d",
+        "android_client_info": {
+          "package_name": "br.com.entenda_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790313493176-36cp29tsgeeie914fkd7ocodttnsjb64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuTk98z3ARrDGLF7qotVKW2kwkv76kAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790313493176-36cp29tsgeeie914fkd7ocodttnsjb64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790313493176:android:df70056d45943f753f4a4d",
+        "android_client_info": {
+          "package_name": "br.com.meentenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790313493176-36cp29tsgeeie914fkd7ocodttnsjb64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuTk98z3ARrDGLF7qotVKW2kwkv76kAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790313493176-36cp29tsgeeie914fkd7ocodttnsjb64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
